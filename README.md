@@ -14,7 +14,7 @@ Este projeto utiliza uma rede neural para realizar uma interpolação baseada em
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Paleoecologia-Cisulariano.git
+   git clone https://github.com/thubaraleii/Paleoecologia-Cisulariano.git
 Paleoecologia-Cisulariano
 
    ```
