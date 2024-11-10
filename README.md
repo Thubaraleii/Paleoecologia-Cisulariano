@@ -89,7 +89,7 @@ This project combines IDW with a neural network model to enhance interpolation a
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/idw-deep-learning-geology.git
+    git clone https://github.com/Thubaraleii/Paleoecologia-Cisulariano.git
     cd idw-deep-learning-geology
     ```
 
