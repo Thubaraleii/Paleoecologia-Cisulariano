@@ -31,3 +31,22 @@ def build_model(input_shape):
 def train_model(model, X_train, y_train, X_val, y_val, epochs=200, batch_size=8):
     model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_data=(X_val, y_val), verbose=1)
     return model
+    # Criando o DataFrame com base na nova imagem fornecida
+data_2 = {
+    "Nivel": ["4C", "4B", "4A", "3D", "3C", "3B", "3A", "2B", "2A", "1D", "1C", "1B", "1A"],
+    "Profundidade (cm)": [10, 35, 45, 60, 68, 82, 86.5, 94.5, 100, 106, 110, 111.5, 114],
+    "MOA": [None, None, 327, 286, 248, 258, 289, 286, 338, 321, 266, 251, 190],
+    "TS": [None, None, 1.49, 1.96, 2.73, 4.54, 1.71, 1.24, 1.72, 3.98, 3.67, 1.73, 2.62],
+    "TOC": [None, None, 11.93, 12.11, 11.7, 12.01, 13.05, 8.79, 7.69, 5.73, 7.42, 12.41, 12.97],
+    "TN": [None, None, 0.43, 0.46, 0.44, 0.43, 0.54, 0.32, 0.29, 0.3, 0.26, 0.52, 0.54]
+}
+
+# Convertendo para DataFrame
+df_2 = pd.DataFrame(data_2)
+
+# Calculando a média, o mínimo e o máximo de cada coluna relevante
+stats_2 = df_2[["MOA", "TS", "TOC", "TN"]].agg(['mean', 'min', 'max'])
+
+# Exibindo os resultados
+tools.display_dataframe_to_user(name="Estatísticas de MOA, TS, TOC e TN", dataframe=stats_2)
+
