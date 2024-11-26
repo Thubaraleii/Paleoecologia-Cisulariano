@@ -1,4 +1,11 @@
-![image](https://github.com/user-attachments/assets/1a0678d8-ecc0-485b-8e46-fb61d8882fd9)
+![image](https://github.com/user-attachments/assets/9afa67be-6105-4e30-a5df-6c1aebbbb300)
+Reconstruction of living biota of Mafra Fjord at the maximum flooding. On the left: shallow and proximal environment; oxygenated and turbulent bottom
+conditions with possible living scolecodont polychaete, living brachiopods (left second zoom circle) and shells available in the benthic taphonomically active zone for
+polychaete colonization (left first zoom circle). On the right: deep and distal environment, final burial site; anoxic and paralic bottom conditions with benthos
+dominated by sponges associated with holometabolous larvae (right first zoom circle). In the upper right corner: open sea. Water column: nektonic marine fauna
+living in the saline water layer, populated by paleoniscid fishes, symmoriiformes fishes, ammonoids, conodonts fishes (second right zoom circle), ostracods (third
+right zoom circle) and continental dead fauna arriving in the upper freshwater continental current stem, plant fragments, and blattodea insects (upper zoom circle).
+Paleoart by Julia D'Oliveira. 
 
 # Fossils Depth Distribution Analysis
 
