@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/1a0678d8-ecc0-485b-8e46-fb61d8882fd9)
 
 # Fossils Depth Distribution Analysis
 
