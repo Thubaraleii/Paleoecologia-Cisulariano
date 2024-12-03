@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/9afa67be-6105-4e30-a5df-6c1aebbbb300)
 
 Reconstruction of living biota of Mafra Fjord at the maximum flooding. On the left: shallow and proximal environment; oxygenated and turbulent bottom
 conditions with possible living scolecodont polychaete, living brachiopods (left second zoom circle) and shells available in the benthic taphonomically active zone for
